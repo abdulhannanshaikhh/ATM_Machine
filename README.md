@@ -28,8 +28,6 @@ ATM Operation Interface (Java): This Java interface, AtmOperationInterf, outline
 
 Main ATM Simulation (Java): The MainClass program serves as an entry point for an ATM simulation. It verifies user authentication, offers a menu-driven interface for operations, and interacts with the user through the AtmOperationInterf methods for a complete ATM experience.
 
-Authentication: You have implemented basic authentication using ATM number and PIN, which is a good start. However, in a real-world scenario, you might want to enhance the security of authentication mechanisms.
 
-User Input Validation: While your code prompts users for input, it's important to validate the input to prevent unexpected behavior or errors. For example, validating whether the input is a valid number or not.
 
 
