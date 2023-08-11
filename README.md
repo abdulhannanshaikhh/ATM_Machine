@@ -16,7 +16,7 @@ features:
 Requirements:
 -  java Development Kit (JDK)
 -  Java Compiler
--  Version Control (Optional)
+-  Version Control(Optional)
 
 Classes:
 
@@ -27,6 +27,8 @@ ATM Operation Implementation (Java): In this Java program, the AtmOperationImpl 
 ATM Operation Interface (Java): This Java interface, AtmOperationInterf, outlines the contract for ATM operations such as viewing balance, withdrawing, depositing, and viewing mini statements, providing a consistent structure for implementing classes.
 
 Main ATM Simulation (Java): The MainClass program serves as an entry point for an ATM simulation. It verifies user authentication, offers a menu-driven interface for operations, and interacts with the user through the AtmOperationInterf methods for a complete ATM experience.
+
+............................................................................................................................................................................
 
 
 
